@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package>
+    <name>Payserv_GoogleFinance</name>
+    <version>1.0.2</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Currency conversion alternative to Webserviceex from Google Finance.</summary>
+    <description>Imports currency exchange rates.</description>
+    <notes>22/01/2014&#xD;
+- Repackage&#xD;
+&#xD;
+25/03/2011&#xD;
+- First release.&#xD;
+- Since Google Finance site does not display any Terms &amp;amp; Conditions, it is assumed it is ok to use.</notes>
+    <authors><author><name>Michael Mussulis</name><user>mpgjunky</user><email>michael@payserv.ro</email></author></authors>
+    <date>2014-01-22</date>
+    <time>21:16:24</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Payserv_GoogleFinance.xml" hash="01e968797e7f8e021398b0605fbc32b0"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

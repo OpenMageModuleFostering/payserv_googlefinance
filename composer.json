@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Payserv_GoogleFinance",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Currency conversion alternative to Webserviceex from Google Finance.",
+    "authors": [
+    {
+        "name": "Michael Mussulis",
+        "email": "michael@payserv.ro"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
